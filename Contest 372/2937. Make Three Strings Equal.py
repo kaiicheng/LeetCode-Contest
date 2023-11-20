@@ -6,7 +6,6 @@ class Solution:
         # "aca", "abcc", "accba"
         
         step=0
-        
         inp=[s1, s2, s3]
         
         # border case
